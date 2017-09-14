@@ -1,0 +1,17 @@
+﻿[
+  {
+    "GreetingID": 1,
+    "Language": "English",
+    "GreetingText": "Hello"
+  },
+  {
+    "GreetingID": 1,
+    "Language": "Spanish",
+    "GreetingText": "Hola"
+  },
+  {
+    "GreetingID": 1,
+    "Language": "German",
+    "GreetingText": "Hallo"
+  }
+]
